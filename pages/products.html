@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Categories</title>
+    <link rel="stylesheet" href="../assets/css/products.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <script defer src="../assets/js/products.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <div class="container">
+                <div class="logo">
+                    <a href="#">CompanyLogo</a>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../pages/about.html">About Us</a></li>
+                        <li><a href="../pages/products.html">Products</a></li>
+                        <li><a href="#contact">Contact Us</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <!-- Sidebar Menu -->
+        <aside class="sidebar">
+            <h2>Categories</h2>
+            <ul class="menu">
+                <li class="menu-item">
+                    <div class="menu-header" onclick="toggleSubmenu(this)">
+                        Condensers <span class="arrow">▼</span>
+                    </div>
+                    <ul class="submenu">
+                        <li onclick="showProducts('condensers', 'Proton')">Proton</li>
+                        <li onclick="showProducts('condensers', 'Toyota')">Toyota</li>
+                        <li onclick="showProducts('condensers', 'Honda')">Honda</li>
+                        <li onclick="showProducts('condensers', 'Hyundai')">Hyundai</li>
+                        <li onclick="showProducts('condensers', 'Nissan')">Nissan</li>
+                        <li onclick="showProducts('condensers', 'Perodua')">Perodua</li>
+                        <li onclick="showProducts('condensers', 'Ford')">Ford</li>
+                        <li onclick="showProducts('condensers', 'Peugeot')">Peugeot</li>
+                        <li onclick="showProducts('condensers', 'BMW')">BMW</li>
+                        <li onclick="showProducts('condensers', 'Kia')">Kia</li>
+                    </ul>
+                </li>
+                <li class="menu-item">
+                    <div class="menu-header" onclick="toggleSubmenu(this)">
+                        Evaporators <span class="arrow">▼</span>
+                    </div>
+                    <ul class="submenu">
+                        <li onclick="showProducts('evaporators', 'BMW')">BMW</li>
+                        <li onclick="showProducts('evaporators', 'Toyota')">Toyota</li>
+                        <li onclick="showProducts('evaporators', 'Honda')">Honda</li>
+                    </ul>
+                </li>
+                <li class="menu-item">
+                    <div class="menu-header" onclick="toggleSubmenu(this)">
+                        Compressors <span class="arrow">▼</span>
+                    </div>
+                    <ul class="submenu">
+                        <li onclick="showProducts('compressors', 'BMW')">BMW</li>
+                        <li onclick="showProducts('compressors', 'Toyota')">Toyota</li>
+                        <li onclick="showProducts('compressors', 'Honda')">Honda</li>
+                    </ul>
+                </li>
+            </ul>
+        </aside>
+
+        <!-- Product Display Section -->
+        <main class="product-display">
+            <h1>Products</h1>
+            <div id="product-grid" class="product-grid">
+                <p>Select a category and a model to view products.</p>
+            </div>
+        </main>
+    </div>
+</body>
+</html>

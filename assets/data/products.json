@@ -1,0 +1,246 @@
+{
+  "condensers": {
+    "Proton": [
+      {
+        "id": "CXA-0623",
+        "name": "Proton Satria Neo Patco w/o Drier",
+        "img": ["../assets/image/products/comd/0623-1.png", "../assets/image/products/comd/0623-2.png", "../assets/image/products/comd/0623-3.png", "../assets/image/products/comd/0623-4.png"],
+        "specs": "NO: CXA-0623"
+      },
+      {
+        "id": "CXA-0627",
+        "name": "Wira 1.6 Patco PF",
+        "img": ["../assets/image/products/comd/0627-1.png", "../assets/image/products/comd/0627-2.png"],
+        "specs": "NO: CXA-0627"
+      },
+      {
+        "id": "CXA-0956",
+        "name": "Proton Iswara / SAGA (UCM) R12",
+        "img": ["../assets/image/products/comd/0956-1.png", "../assets/image/products/comd/0956-2.png"],
+        "specs": "NO: CXA-0956"
+      },
+      {
+        "id": "CXA-0959A",
+        "name": "Proton Wira 1.5 UCM (PF)",
+        "img": ["../assets/image/products/comd/0959A-1.jpg", "../assets/image/products/comd/0959A-2.jpg"],
+        "specs": "NO: CXA-0959A"
+      },
+      {
+        "id": "CXA-0960B",
+        "name": "Proton Wira 1.6 UCM C/W Pipe (PF)CX1801",
+        "img": ["../assets/image/products/comd/0960B-1.png", "../assets/image/products/comd/0960B-2.png"],
+        "specs": "NO: CXA-0960B"
+      },
+      {
+        "id": "CXA-0960C",
+        "name": "Proton Wira 1.6 Sanden (PF)CX1800",
+        "img": ["0960C-1.jpg", "0960C-2.jpg"],
+        "specs": "NO: CXA-0960C"
+      },
+      {
+        "id": "CXA-0960D",
+        "name": "Proton Wira 1.6 Patco (SP)",
+        "img": ["0960D-1.jpg", "0960D-2.jpg"],
+        "specs": "NO: CXA-0960D"
+      },
+      {
+        "id": "CXA-0961C",
+        "name": "Proton Saga Denso (3076BH)",
+        "img": ["0961C-1.jpg", "0961C-2.jpg"],
+        "specs": "NO: CXA-0961C"
+      },
+      {
+        "id": "CXA-0961D",
+        "name": "Proton Saga Patco (3075CH)",
+        "img": ["0961D-1.jpg", "0961D-2.jpg"],
+        "specs": "NO: CXA-0961D"
+      },
+      {
+        "id": "CXA-0962",
+        "name": "Proton Waja Patco(CX1802)",
+        "img": ["0962-1.jpg", "0962-2.jpg"],
+        "specs": "NO: CXA-0962"
+      }
+    ],
+    "Toyota": [
+      {
+        "id": "CXA-0636",
+        "name": "Toyota Estima 06- 09'/ Rav 4 06\"- 10 \"(ACR50) MPF",
+        "img": ["../assets/image/products/comd/0636-1.png", "../assets/image/products/comd/0636-2.png"],
+        "specs": "NO: CXA-0636"
+      },
+      {
+        "id": "CXA-0664",
+        "name": "Toyota Vios 08' (PF) (NCP 93) MPF 5MM",
+        "img": ["../assets/image/products/comd/0664-1.png", "../assets/image/products/comd/0664-2.png"],
+        "specs": "NO: CXA-0664"
+      },
+      {
+        "id": "CXA-0666",
+        "name": "Toyota Vios 03' (PF) -5MM",
+        "img": ["0666-1.jpg", "0666-2.jpg"],
+        "specs": "NO: CXA-0666"
+      },
+      {
+        "id": "CXA-0668",
+        "name": "Toyota Vios 03' (NCP42) -5MM",
+        "img": ["0668-1.jpg", "0668-2.jpg"],
+        "specs": "NO: CXA-0668"
+      },
+      {
+        "id": "CXA-0778",
+        "name": "Toyota Altis '03 5MM",
+        "img": ["0778-1.jpg", "0778-2.jpg"],
+        "specs": "NO: CXA-0778"
+      },
+      {
+        "id": "CXA-0808Z",
+        "name": "Toyota Camry 08 MPF 5mm",
+        "img": ["0808Z-1.jpg", "0808Z-2.jpg"],
+        "specs": "NO: CXA-0808Z"
+      },
+      {
+        "id": "CXA-0950",
+        "name": "Toyota Innova MPF (TGN40) 5MM",
+        "img": ["0950-1.jpg", "0950-2.jpg"],
+        "specs": "NO: CXA-0950"
+      },
+      {
+        "id": "CXA-0952Z",
+        "name": "Toyota Avanza 03 1.3 5mm",
+        "img": ["0952Z-1.jpg", "0952Z-2.jpg"],
+        "specs": "NO: CXA-0952Z"
+      },
+      {
+        "id": "CXA-0965Z",
+        "name": "Toyota Fortuner Diesel",
+        "img": ["0965Z-1.jpg", "0965Z-2.jpg"],
+        "specs": "NO: CXA-0965Z"
+      }
+    ],
+    "Honda": [
+      {
+        "id": "CXA-0488Z",
+        "name": "Honda Jazz 2015 5mm (T5A) (Keihin) (8163ZY)",
+        "img": ["0488Z-1.jpg", "0488Z-2.jpg"],
+        "specs": "NO: CXA-0488Z"
+      },
+      {
+        "id": "CXA-0524",
+        "name": "Honda CRV 07' (SWA) (1185ZAY-16)",
+        "img": ["0524-1.jpg", "0524-2.jpg"],
+        "specs": "NO: CXA-0524"
+      },
+      {
+        "id": "CXA-0541",
+        "name": "Honda Jazz 03/ Insight (Long)CX1970Y-16",
+        "img": ["0541-1.jpg", "0541-2.jpg"],
+        "specs": "NO: CXA-0541"
+      },
+      {
+        "id": "CXA-0646",
+        "name": "Honda Accord 2008 (TAO) MPF CX1970Y-16",
+        "img": ["0646-1.jpg", "0646-2.jpg"],
+        "specs": "NO: CXA-0646"
+      },
+      {
+        "id": "CXA-0649A",
+        "name": "Honda Accord 2013-2016 (T2A) (8155ZY)",
+        "img": ["0649A-1.jpg", "0649A-2.jpg"],
+        "specs": "NO: CXA-0649A"
+      },
+      {
+        "id": "CXA-0730",
+        "name": "Honda Civic '94 Sanden R134a",
+        "img": ["0730-1.jpg", "0730-2.jpg", "0730-3.jpg"],
+        "specs": "NO: CXA-0730"
+      }
+    ],
+    "Hyundai": [
+      {
+        "id": "CXA-0624",
+        "name": "Hyundai Matrix",
+        "img": ["0624-1.jpg", "0624-2.jpg"],
+        "specs": "NO: CXA-0624"
+      },
+      {
+        "id": "CXA-0706MY",
+        "name": "Hyundai Atoz O/M",
+        "img": ["0706MY-1.jpg", "0706MY-2.jpg"],
+        "specs": "NO: CXA-0706MY"
+      },
+      {
+        "id": "CXA-0782",
+        "name": "Hyundai Sonata 08 YF / K5 MPF",
+        "img": ["0782-1.jpg", "0782-2.jpg"],
+        "specs": "NO: CXA-0782"
+      },
+      {
+        "id": "CXA-0995",
+        "name": "Hyundai Tucson/Sportage 2012",
+        "img": ["0995-1.jpg", "0995-2.jpg"],
+        "specs": "NO: CXA-0995"
+      }
+    ],
+    "Nissan": [
+      {
+        "id": "CXA-0676",
+        "name": "Nissan RG / UD R12 C/W Drier",
+        "img": ["0676-1.jpg", "0676-2.jpg", "0676-3.jpg"],
+        "specs": "NO: CXA-0676"
+      },
+      {
+        "id": "CXA-0922",
+        "name": "Nissan X-Trail c/w Drier O/M (1406) (T30)",
+        "img": ["0922-1.jpg", "0922-2.jpg"],
+        "specs": "NO: CXA-0922"
+      }
+    ],
+    "Perodua": [
+      {
+        "id": "CXA-0968",
+        "name": "Perodua Viva Sanden c/w Drier 16mm (1154E)",
+        "img": ["0968-1.jpg", "0968-2.jpg"],
+        "specs": "NO: CXA-0968"
+      },
+      {
+        "id": "CXA-0970Z",
+        "name": "Myvi 1.3 MPF 5mm",
+        "img": ["0970Z-1.jpg", "0970Z-2.jpg"],
+        "specs": "NO: CXA-0970Z"
+      }
+    ],
+    "Ford": [
+      {
+        "id": "CXA-0741Z",
+        "name": "Ford Fiesta 2011 5mm",
+        "img": ["0741Z-1.jpg", "0741Z-2.jpg"],
+        "specs": "NO: CXA-0741Z"
+      }
+    ],
+    "Peugeot": [
+      {
+        "id": "CXA-0742",
+        "name": "Peugeot 5008/3008/308/408",
+        "img": ["0742-1.jpg", "0742-2.jpg"],
+        "specs": "NO: CXA-0742"
+      }
+    ],
+    "BMW": [
+      {
+        "id": "CXA-0743AZ",
+        "name": "BMW E38",
+        "img": ["../assets/image/products/comd/0743AZ-1.jpg", "../assets/image/products/comd/0743AZ.jpg"],
+        "specs": "NO: CXA-0743AZ"
+      }
+    ],
+    "Kia": [
+      {
+        "id": "CXA-0880A",
+        "name": "Kia Sorento 2012",
+        "img": ["../assets/image/products/comd/0880A-1.png", "../assets/image/products/comd/0880A-2.png", "../assets/image/products/comd/0880A-3.png"],
+        "specs": "NO: CXA-0880A"
+      }
+    ]
+  }
+}

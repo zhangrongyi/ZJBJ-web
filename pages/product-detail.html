@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Detail</title>
+    <link rel="stylesheet" href="../assets/css/product-detail.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Import Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script defer src="../assets/js/product-detail.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- 导航栏 -->
+        <header>
+            <div class="container">
+                <div class="logo">
+                    <a href="#">ZheJiangBaiJia</a>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="../index.html#contact">Contact Us</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        
+        <main class="product-detail">
+            <!-- 图片轮播区域 -->
+            <div class="product-gallery">
+                <div class="main-image">
+                    <button class="prev">❮</button>
+                    <img id="currentImage" src="" alt="">
+                    <button class="next">❯</button>
+                </div>
+                <div class="thumbnail-list">
+                    <!-- 缩略图将通过 JavaScript 动态加载 -->
+                </div>
+            </div>
+            
+            <!-- 产品信息区域 -->
+            <div class="product-info">
+                <h1 id="productName"></h1>
+                <p id="productId"></p>
+                <div id="productSpecs"></div>
+            </div>
+        </main>
+    </div>
+</body>
+</html> 
